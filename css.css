@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(58, 188, 231);
+}
+
+.meio{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    height: 600px;
+    width: 100%;
+}
+
+.frmlogin{
+    background-color: white;
+    width: auto;
+    height: auto;
+    padding: 15px;
+    border-radius: 15px;
+    box-shadow: 5px 5px 5px 5px black;
+}
+
+.sapo{
+    height: auto;
+    background-color: #333;
+    width: 100%;
+    background-position: all;
+
+}
